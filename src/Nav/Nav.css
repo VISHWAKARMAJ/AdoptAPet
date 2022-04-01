@@ -1,0 +1,35 @@
+.main-container {
+  padding-top: 30px;
+  padding-right: 20px;
+  box-shadow: 5px 5px 1px white;
+  background-color: gray;
+  height: 600px;
+  /* width: 100px; */
+}
+.logo {
+  font-size: 24px;
+  align-content: center;
+  justify-content: center;
+  padding-left: 12px;
+}
+.box2 {
+  padding-top: 50px;
+}
+.text {
+  font-size: 18px;
+  margin: 12px;
+  padding: 10px;
+}
+.brd {
+  display: flex;
+  justify-content: center;
+}
+.border {
+  margin-top: 12px;
+  padding: 5px;
+  height: 29px;
+  background-color: orange;
+}
+.yellow {
+  background-color: rgb(175, 147, 95);
+}

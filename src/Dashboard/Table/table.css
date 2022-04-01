@@ -1,0 +1,24 @@
+.tableData {
+  padding: 20px;
+  color: orange;
+}
+.tableRowdata {
+  padding: 8px;
+  background-color: white;
+  position: relative;
+  border: none;
+}
+.con {
+  background-color: #f8f8f8;
+  box-shadow: 5px 5px gray;
+  border-radius: 8px;
+  margin-left: 40px;
+}
+.petName {
+  font-size: 24px;
+  color: black;
+  padding: 20px;
+  margin: 20px;
+  display: flex;
+  justify-content: flex-start;
+}

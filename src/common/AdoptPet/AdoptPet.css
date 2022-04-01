@@ -1,0 +1,63 @@
+.header {
+  height: 80px;
+  width: 900px;
+  background-color: #f8f8f8;
+  display: flex;
+  align-items: center;
+  font-size: 24px;
+}
+.bdr {
+  border: 1px solid;
+}
+.contain {
+  margin-left: 100px;
+  max-width: 450px;
+  align-items: center;
+  justify-content: center;
+}
+.paragram {
+  margin-top: 10px;
+  font-size: 14px;
+  margin-bottom: 10px;
+  color: gray;
+}
+.heading-small {
+  padding-top: 20px;
+  font-size: 24px;
+}
+.input {
+  width: 100%;
+  padding: 30px;
+}
+.heading {
+  padding: 24px;
+}
+.input-box {
+  display: flex;
+  border: 2px solid gray;
+  padding: 8px;
+  margin: 10px;
+  border-radius: 8px;
+}
+.buttonAd {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 400px;
+}
+.buttonCancel {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: transparent;
+  border: 1px solid black;
+  color: black;
+  width: 400px;
+}
+.dolor {
+  background-color: gray;
+  padding: 0px;
+  margin: 0px;
+  height: 30px;
+  width: 30px;
+}
